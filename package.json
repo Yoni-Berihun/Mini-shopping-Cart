@@ -1,0 +1,25 @@
+{
+  "name": "mini-shopping-cart",
+  "version": "1.0.0",
+  "description": "Capstone project for Gara Missional Bootcamp Type Script class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./build/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoni-Berihun/Mini-shopping-Cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoni-Berihun/Mini-shopping-Cart/issues"
+  },
+  "homepage": "https://github.com/Yoni-Berihun/Mini-shopping-Cart#readme",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
